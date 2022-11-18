@@ -21,6 +21,7 @@
 }
 
 #hero {
+  padding-bottom: 4rem;
 }
 
 #hero img {
@@ -111,7 +112,9 @@
 #more-about-me-section {
   scroll-padding-top: 4rem;
 }
-
+#mobile-navbar {
+  display: none !important;
+}
 /****************************/
 
 @media (max-width: 750px) {
